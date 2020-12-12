@@ -3,8 +3,8 @@
 
 
 
-<h3 align="left">  REAME and all comments FOR THIS REPOSTITORY HERE (this article): </h3>
-<h3 align="left">  https://oleksandrg.medium.com/image-classification-persons-animals-other-on-raspberry-pi-used-custom-model-tflite-output-to-e6810868b6e0 </h3>
+<h3 align="left">REAME and all comments FOR THIS REPOSTITORY HERE (this article): </h3>
+<h3 align="left">https://oleksandrg.medium.com/image-classification-persons-animals-other-on-raspberry-pi-used-custom-model-tflite-output-to-e6810868b6e0 </h3>
 
 <h2 align="left">Also</h2>
 <h2 align="left">If you were interested in this code, please put a star ✰ for this repo </h2>
