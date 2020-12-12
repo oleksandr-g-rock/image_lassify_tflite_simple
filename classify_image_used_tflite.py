@@ -42,9 +42,9 @@ print(output_details)
 start_time = time.time()
 
 #load image
-#img_path = "dog.jpg" #animal class
+img_path = "cat.jpg" #animal class
 #img_path = "other.jpg" #other class
-img_path = "person.jpg" #person class
+#img_path = "person.jpg" #person class
 
 #resize image
 img = load_img(img_path, target_size=(299, 299))
