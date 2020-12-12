@@ -1,5 +1,5 @@
-<h3 align="center">Project name:</h3>
-<h3 align="center">Image classification (persons, animals, other) on raspberry pi used custom model tflite (output to terminal)</h3>
+<h3 align="left">Project name:</h3>
+<h3 align="left">Image classification (persons, animals, other) on raspberry pi used custom model tflite (output to terminal)</h3>
 
 
 
