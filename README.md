@@ -7,7 +7,7 @@
 <h3 align="left">  https://oleksandrg.medium.com/image-classification-persons-animals-other-on-raspberry-pi-used-custom-model-tflite-output-to-e6810868b6e0 </h3>
 
 <h2 align="left">Also</h2>
-<h2 align="left">If you were interested in this code, please put a star * for this repo </h2>
+<h2 align="left">If you were interested in this code, please put a star ✰ for this repo </h2>
 <h2 align="left">Also, if you were interested in my article, please subscribe to my blog </h2>
 <h2 align="left"> https://oleksandrg.medium.com/ </h2>
 
