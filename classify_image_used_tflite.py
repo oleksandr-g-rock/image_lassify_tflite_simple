@@ -4,6 +4,7 @@ import tensorflow as tf
 from tensorflow.keras.preprocessing.image import img_to_array, load_img
 from tensorflow.keras.preprocessing import image
 from PIL import Image, ImageOps
+import matplotlib.pyplot as plt
 
 print("#set classes names")
 classes_names = ['animals', 'other', 'person'] #you can change classes
@@ -46,12 +47,14 @@ img_path = "cat.jpg" #animal class
 #img_path = "other.jpg" #other class
 #img_path = "person.jpg" #person class
 
-#show image
-plt.imshow(img_path)
-plt.show()
-
 #resize image
 img = load_img(img_path, target_size=(299, 299))
+
+#show image
+plt.imshow(img)
+plt.show()
+
+#image to array
 new_img = image.img_to_array(img)
 new_img /= 255
 new_img = np.expand_dims(new_img, axis=0)
