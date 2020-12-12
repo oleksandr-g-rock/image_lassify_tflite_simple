@@ -46,6 +46,10 @@ img_path = "cat.jpg" #animal class
 #img_path = "other.jpg" #other class
 #img_path = "person.jpg" #person class
 
+#show image
+plt.imshow(img_path)
+plt.show()
+
 #resize image
 img = load_img(img_path, target_size=(299, 299))
 new_img = image.img_to_array(img)
