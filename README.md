@@ -8,8 +8,6 @@
 
 
 
-{% gist 735ddc94dbbf41691c98d701a7114ebc Thank_you.md %}
-
 <h2 align="left">Also</h2>
 <h2 align="left">If you were interested in this code, please put a star ✰ for this repo </h2>
 <h2 align="left">Also, if you were interested in my article, please subscribe to my blog </h2>
