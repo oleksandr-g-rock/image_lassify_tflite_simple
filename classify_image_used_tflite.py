@@ -53,6 +53,8 @@ img = load_img(img_path, target_size=(299, 299))
 #show image
 plt.imshow(img)
 plt.show()
+time.sleep(5)
+plt.close()
 
 #image to array
 new_img = image.img_to_array(img)
