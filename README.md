@@ -4,7 +4,7 @@
 
 
 <h3 align="left">REAME and all comments FOR THIS REPOSTITORY HERE (this article): </h3>
-<h3 align="left">https://oleksandrg.medium.com/image-classification-persons-animals-other-on-raspberry-pi-used-custom-model-tflite-output-to-e6810868b6e0 </h3>
+<h3 align="left">https://oleksandrg.medium.com/simple-image-classification-persons-animals-other-on-raspberry-pi-used-custom-model-tflite-d922ae0298d0 </h3>
 
 
 
