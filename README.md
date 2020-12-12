@@ -7,7 +7,8 @@
 <h3 align="left">https://oleksandrg.medium.com/simple-image-classification-persons-animals-other-on-raspberry-pi-used-custom-model-tflite-d922ae0298d0 </h3>
 
 
-!https://gist.github.com/oleksandr-g-rock/735ddc94dbbf41691c98d701a7114ebc.js
+
+{% gist 735ddc94dbbf41691c98d701a7114ebc Thank_you.md %}
 
 <h2 align="left">Also</h2>
 <h2 align="left">If you were interested in this code, please put a star ✰ for this repo </h2>
