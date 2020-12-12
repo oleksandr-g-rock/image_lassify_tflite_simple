@@ -1,10 +1,10 @@
 <h3 align="left">Project name:</h3>
-<h3 align="left">Image classification (persons, animals, other) on raspberry pi from pi-camera (with cycle while) used custom tflite model (output to terminal)</h3>
+<h3 align="left">Image classification (persons, animals, other) on raspberry pi used custom model tflite (output to terminal)</h3>
 
 
 
 <h3 align="left">REAME and all comments FOR THIS REPOSTITORY HERE (this article): </h3>
-<h3 align="left">https://oleksandrg.medium.com/image-classification-persons-animals-other-on-raspberry-pi-from-pi-camera-with-cycle-while-d342d56338ba </h3>
+<h3 align="left">https://oleksandrg.medium.com/image-classification-persons-animals-other-on-raspberry-pi-used-custom-model-tflite-output-to-e6810868b6e0 </h3>
 
 
 
